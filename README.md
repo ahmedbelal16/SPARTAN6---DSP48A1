@@ -2,14 +2,15 @@
 📌 Project Overview
 Welcome to the Spartan-6 DSP48A1 Project – a deep dive into designing and implementing the DSP48A1 slice using Verilog HDL, Xilinx Vivado, and QuestaSim! 🚀 This project focuses on understanding and utilizing the DSP48A1 architecture for high-performance digital signal processing applications.
 
-🎯 Features
-✔️ Fully functional DSP48A1 slice design for Spartan-6 FPGA 🖥️
-✔️ Parameterized pipeline registers and configuration attributes ⚙️
-✔️ Supports arithmetic operations (multiply, add, accumulate, subtract) ➕➖✖️
-✔️ Includes custom testbench for verification 🧪
-✔️ Linting with QuestLint to ensure clean, error-free code ✅
-✔️ Complete FPGA flow – from RTL coding to timing closure 📊
-✔️ Zero critical warnings or errors after synthesis & implementation 🛠️
+🎯 Features		
+✔️ Fully functional DSP48A1 slice design for Spartan-6 FPGA 🖥️		
+✔️ Parameterized pipeline registers and configuration attributes ⚙️	
+✔️ Supports arithmetic operations (multiply, add, accumulate, subtract) ➕➖✖️	
+✔️ Includes custom testbench for verification 🧪      
+✔️ Linting with QuestLint to ensure clean, error-free code ✅	
+✔️ Complete FPGA flow – from RTL coding to timing closure 📊  
+✔️ Zero critical warnings or errors after synthesis & implementation 🛠️	
+
 
 📂 File Structure
 📁 Directory / File	📜 Description
