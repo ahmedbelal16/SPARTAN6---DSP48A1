@@ -24,10 +24,7 @@ Welcome to the **Spartan-6 DSP48A1 Project** – a deep dive into designing and 
 | [**DSP48A1_tb.v**](LINK_HERE)    | Testbench code to verify DSP48A1 functionality |
 | [**dofile.do**](LINK_HERE)       | QuestaSim automation script for compiling and simulating the design |
 | [**DSP48A1.xdc**](LINK_HERE)     | Timing constraint file defining 100 MHz clock on pin W5 |
-| [**questa_waveforms.png**](LINK_HERE) | QuestaSim waveform snapshots showing correct operation |
-| [**/reports/synthesis/**](LINK_HERE) | Vivado synthesis reports: utilization, timing, and messages |
-| [**/reports/implementation/**](LINK_HERE) | Vivado implementation reports: utilization, timing, and device schematic |
-| [**questlint_results.txt**](LINK_HERE) | QuestLint output showing no linting errors |
+| [**Project_Report.pdf**](LINK_HERE) | Full project report including simulation results, synthesis/implementation reports, and analysis |
 
 
 ---
