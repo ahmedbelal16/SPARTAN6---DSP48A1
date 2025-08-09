@@ -23,7 +23,7 @@ Welcome to the **Spartan-6 DSP48A1 Project** – a deep dive into designing and 
 | [**DSP48A1.v**](LINK_HERE)       | Main Verilog RTL implementation of the DSP48A1 slice |
 | [**DSP48A1_tb.v**](LINK_HERE)    | Testbench code to verify DSP48A1 functionality |
 | [**dofile.do**](LINK_HERE)       | QuestaSim automation script for compiling and simulating the design |
-| [**DSP48A1.xdc**](LINK_HERE)     | Timing constraint file defining 100 MHz clock on pin W5 |
+| [**DSP48A1.xdc**]((https://github.com/ahmedbelal16/SPARTAN6---DSP48A1/blob/main/Constraints_Project_1.xdc))     | Timing constraint file defining 100 MHz clock on pin W5 |
 | [**Project_Report.pdf**](LINK_HERE) | Full project report including simulation results, synthesis/implementation reports, and analysis |
 
 
