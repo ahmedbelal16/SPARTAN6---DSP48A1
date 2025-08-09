@@ -78,5 +78,4 @@ This project successfully implements a **Spartan-6 DSP48A1 slice** with clean, o
 ---
 
 🔹 Happy Designing! ⚡
-## 📂 File Structure
 
