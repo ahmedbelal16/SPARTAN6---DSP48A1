@@ -18,15 +18,17 @@ Welcome to the **Spartan-6 DSP48A1 Project** – a deep dive into designing and 
 
 ## 📂 File Structure
 
-| 📁 Directory / File          | 📜 Description |
-|------------------------------|----------------|
-| **Main Module Code**         | Verilog RTL implementation of DSP48A1 slice |
-| **Test Bench Code**          | Simulation scripts for functional verification |
-| **Do File**                  | QuestaSim automation script for simulations |
-| **Constraints File**         | XDC constraints with timing definitions |
-| **QuestaSim Snippets**       | Waveform and output snapshots |
-| **Vivado Reports**           | Synthesis, utilization, and timing reports |
-| **Linting Results**          | QuestLint output showing no errors |
+| 📁 File / Directory              | 📜 Description |
+|----------------------------------|----------------|
+| [**DSP48A1.v**](LINK_HERE)       | Main Verilog RTL implementation of the DSP48A1 slice |
+| [**DSP48A1_tb.v**](LINK_HERE)    | Testbench code to verify DSP48A1 functionality |
+| [**dofile.do**](LINK_HERE)       | QuestaSim automation script for compiling and simulating the design |
+| [**DSP48A1.xdc**](LINK_HERE)     | Timing constraint file defining 100 MHz clock on pin W5 |
+| [**questa_waveforms.png**](LINK_HERE) | QuestaSim waveform snapshots showing correct operation |
+| [**/reports/synthesis/**](LINK_HERE) | Vivado synthesis reports: utilization, timing, and messages |
+| [**/reports/implementation/**](LINK_HERE) | Vivado implementation reports: utilization, timing, and device schematic |
+| [**questlint_results.txt**](LINK_HERE) | QuestLint output showing no linting errors |
+
 
 ---
 
